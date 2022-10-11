@@ -1,7 +1,3 @@
 # Python
 
-This is the Template Repl for Python.
-
-Python is a dynamic language emphasizing readability.
-
-[Check out the official docs here](https://www.python.org/).
+Algorithm and Computer Programming class' Assignment. App which controls restaurant menu, inventory, recipes, orderings and attendances flows.
